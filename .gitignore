@@ -2,4 +2,11 @@
 /*/
 
 !.gitignore
-!/ASCIIMap/*
+!/ASCIIMap/
+
+/ASCIIMap/bin
+/ASCIIMap/obj
+/ASCIIMap/Properties
+
+*.config
+*.csproj.*
